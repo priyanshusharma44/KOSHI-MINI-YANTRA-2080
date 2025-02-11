@@ -1,2 +1,0 @@
-# collegeProject
-# testCollegeProject
